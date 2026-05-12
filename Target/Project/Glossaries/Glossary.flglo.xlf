@@ -48,11 +48,11 @@
         phase-name="pretrans"><source>My Term</source><seg-source><mrk
             mtype="seg"
             mid="1">My Term</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">Test</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0">Test aw</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-definition"
         phase-name="pretrans"><source>My definition</source><seg-source><mrk
