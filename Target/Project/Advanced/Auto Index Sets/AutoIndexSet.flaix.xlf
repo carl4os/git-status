@@ -49,11 +49,11 @@
             mtype="seg"
             mid="1"
             comment="Phrase">This is my auto-indexed phrase</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">TEsta again</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0">TEsta againhtr</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-indexterm"
         phase-name="pretrans"><source>Linked To This:And This</source><seg-source><mrk
